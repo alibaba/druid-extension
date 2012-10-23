@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.alibaba.druid</groupId>
 	<artifactId>druid-wrapper</artifactId>
-	<version>0.2.7</version>
+	<version>0.2.8-SNAPSHOT</version>
 	
 	<name>druid-wrapper</name>
 	<description>Druid DataSource Wrapper</description>
@@ -115,7 +115,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid</artifactId>
-			<version>0.2.7</version>
+			<version>0.2.8-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>
