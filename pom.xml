@@ -18,6 +18,7 @@
 	
 	<modules>
 		<module>druid-mapping</module>
+		<module>druid-sharding</module>
 		<module>druid-wrapper</module>
 	</modules>
 
